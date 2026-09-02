@@ -1,4 +1,0 @@
-interface:
-  display_name: "TikTok Shop US 利润分析"
-  short_description: "核算店铺、SKU 与广告利润"
-  default_prompt: "Use $tiktok-shop-us-profit to analyze my TikTok Shop US reports and produce an auditable profit report."
