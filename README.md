@@ -82,7 +82,7 @@
 
 ### 文件路径
 
-``` text
+ text
 <img width="3104" height="1718" alt="image" src="https://github.com/user-attachments/assets/c9f58807-5094-4501-a84d-8276a7a7cfe7" />
 
 ```
@@ -105,7 +105,7 @@
 
 ### 文件路径
 
-``` text
+ text
 <img width="3104" height="1632" alt="image" src="https://github.com/user-attachments/assets/eb27c7be-18de-43f8-8029-a648cb0bb0b0" />
 
 ------------------------------------------------------------------------
@@ -139,7 +139,7 @@
 
 ### 文件路径
 
-``` text
+ text
 <img width="3104" height="1718" alt="image" src="https://github.com/user-attachments/assets/70d79ce3-8ecd-46c1-911d-cd784e1810aa" />
 
 ```
